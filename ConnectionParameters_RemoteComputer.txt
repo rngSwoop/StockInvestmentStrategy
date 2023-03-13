@@ -1,0 +1,3 @@
+dburl=jdbc:mysql://127.0.0.1:4321/johnson330
+user=kingg8
+password=]2a<I?RwLaX
